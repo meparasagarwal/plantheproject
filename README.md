@@ -1,3 +1,3 @@
 # plantheproject
 
-this web app is onn the way
+this web app is on the way
